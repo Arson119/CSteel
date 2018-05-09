@@ -2475,7 +2475,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #7ee8ff;
+			color: #00a5c2;
 			content: '\f00c';
 		}
 
