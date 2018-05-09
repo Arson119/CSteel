@@ -1714,10 +1714,10 @@
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #005f9d, #1638ad);
-				background-image: -webkit-linear-gradient(to right, #005f9d, #1638ad);
-				background-image: -ms-linear-gradient(to right, #005f9d, #1638ad);
-				background-image: linear-gradient(to right, #005f9d, #1638ad);
+				background-image: -moz-linear-gradient(to right, #005f9d, #7ee8ff);
+				background-image: -webkit-linear-gradient(to right, #005f9d, #7ee8ff);
+				background-image: -ms-linear-gradient(to right, #005f9d, #7ee8ff);
+				background-image: linear-gradient(to right, #005f9d, #7ee8ff);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -2475,7 +2475,7 @@
 		input[type="radio"]:checked + label:before {
 			background: #ffffff;
 			border-color: #ffffff;
-			color: #1638ad;
+			color: #7ee8ff;
 			content: '\f00c';
 		}
 
@@ -2572,7 +2572,7 @@
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #1638ad;
+					color: #7ee8ff;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
@@ -3262,7 +3262,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #1638ad;
+			background-color: #7ee8ff;
 		}
 
 		.wrapper.style3-alt {
@@ -3764,14 +3764,14 @@
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background: #555555;
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #005f9d, #1638ad);
-				background-image: -webkit-linear-gradient(to right, #005f9d, #1638ad);
-				background-image: -ms-linear-gradient(to right, #005f9d, #1638ad);
-				background-image: linear-gradient(to right, #005f9d, #1638ad);
+				background-image: -moz-linear-gradient(to right, #005f9d, #7ee8ff);
+				background-image: -webkit-linear-gradient(to right, #005f9d, #7ee8ff);
+				background-image: -ms-linear-gradient(to right, #005f9d, #7ee8ff);
+				background-image: linear-gradient(to right, #005f9d, #7ee8ff);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3860,7 +3860,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #1638ad;
+							background-color: #7ee8ff;
 						}
 
 		}
