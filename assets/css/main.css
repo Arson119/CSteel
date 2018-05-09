@@ -1718,10 +1718,10 @@
 				background-image: -webkit-linear-gradient(to right, #005f9d, #7ee8ff);
 				background-image: -ms-linear-gradient(to right, #005f9d, #7ee8ff);
 				background-image: linear-gradient(to right, #005f9d, #7ee8ff);
-				-moz-transition: max-width 0.2s ease;
-				-webkit-transition: max-width 0.2s ease;
-				-ms-transition: max-width 0.2s ease;
-				transition: max-width 0.2s ease;
+				-moz-transition: max-width 0.4s ease;
+				-webkit-transition: max-width 0.3s ease;
+				-ms-transition: max-width 0.3s ease;
+				transition: max-width 0.4s ease;
 				border-radius: 0.2em;
 				bottom: 0;
 				content: '';
@@ -3772,10 +3772,10 @@
 				background-image: -webkit-linear-gradient(to right, #005f9d, #7ee8ff);
 				background-image: -ms-linear-gradient(to right, #005f9d, #7ee8ff);
 				background-image: linear-gradient(to right, #005f9d, #7ee8ff);
-				-moz-transition: max-width 0.2s ease;
-				-webkit-transition: max-width 0.2s ease;
-				-ms-transition: max-width 0.2s ease;
-				transition: max-width 0.2s ease;
+				-moz-transition: max-width 0.4s ease;
+				-webkit-transition: max-width 0.3s ease;
+				-ms-transition: max-width 0.3s ease;
+				transition: max-width 0.4s ease;
 				max-width: 0;
 			}
 
