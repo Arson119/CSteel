@@ -1968,7 +1968,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #ffffff;
+			background-color: #1862c0;
 			color: #20355e !important;
 		}
 
@@ -3262,7 +3262,7 @@
 		}
 
 		.wrapper.style3 {
-			background-color: #ffffff;
+			background-color: #1862c0;
 		}
 
 		.wrapper.style3-alt {
@@ -3860,7 +3860,7 @@
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #ffffff;
+							background-color: #1862c0;
 						}
 
 		}
